@@ -1,0 +1,6 @@
+{
+  "name": "OtakuOS",
+  "description": "An interactive anime-style launcher blending iOS and Android designs with custom character themes, system monitors, gacha fortune shrines, and quest cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
